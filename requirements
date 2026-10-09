@@ -1,0 +1,24 @@
+(1) Product vision for university event app 
+The university campus event is a simple app created for the students and event staff it provid a single platform where students can easily watched and view there upcoming events in university and also all the upcoming seminars sports events students socity events 
+By the use of this app student can register any event just one 1 click and register automatically receive reminder before activity start.
+(2) Stakeholders and Their Needs
+1.	University Student
+Needs want a fast way to see all the events in one app sign up with one click and get notification to reminder before the event start.
+2.	Event management 
+Needs an easy dashboard to post event details quickly and see an up to date list of students who registered.
+3.	IT Administrator
+Need the app to connect securely with the university existing student login system so students don’t have to create new accounts.
+4.	Facility Staff
+Need to know how many students are coming so they can arrange seats safety, and equipment in advance.
+5.Student Affairs Management
+Wants simple report to see which event students like and attend the most.
+(3) Create a simple stakeholder map or table.
+Stakeholder
+	Role	Primary Need
+University Student	Main End User	Want to see all upcoming events in one app sign up quickly and get reminder notification.
+Event management 
+	Manage event	Need an easy way to post event detail and check the up to date list of registered students.
+IT Administrator	Technical System management	Need the app to connect securely with the university existing student login system.
+Facility Staff
+	Venue and Safety Operation	Need to know how many students are coming so they can arrange seats safety and equipment in advance
+Student Affairs Management	Decision Maker	Want simple report to see which event students like and attend the most.
